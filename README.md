@@ -1,8 +1,10 @@
 # What is it?
 
-This repository proves that the code was created by me, Matei Octavian Miahi, 
+This repository proves that the code was created by me, Matei Octavian Mihai, 
 with the objective to parse a list of powers from the Marsenne primes, parse each prime and output
-the frequency of each digit
+the frequency of each digit. This code is necessary for the demonstration of the paper "Mersenne Primes 
+and their uniform natural distribution of digits" by Matei Octavian Mihai, BEng TUCN, 2020, paper provided in the repository
+
 
 # What it contains?
 
