@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584927327 source:d:\__utcn\mersenneprimes\frequencyfinder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	"string.h"
+	<unistd.h>
+
